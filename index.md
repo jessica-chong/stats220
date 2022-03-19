@@ -70,3 +70,8 @@ meme <- c(first_row, second_row) %>%
 ### Reference
 1. The first image is an image from [Pinterest](https://www.pinterest.com.au/pin/299419075213364556/)
 2. The second image is a screenshot from a [youtube video](https://www.youtube.com/watch?v=PEyMsHQlExY&t=13s)
+
+# Inspiration of the meme
+
+* Just want to share to someone that has the same feeling. 
+* I love the characters in Zootopia, so I want to use images from the movie.
