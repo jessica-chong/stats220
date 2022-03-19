@@ -1,6 +1,6 @@
 # Steps to create the meme 
 Below are some steps that I used to create the meme shown.
-![meme]()
+![meme](my_meme.png)
 
 * I use the R package [Magick](https://cran.r-project.org/web/packages/magick/vignettes/intro.html) to create the meme.
 
